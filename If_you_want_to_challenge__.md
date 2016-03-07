@@ -1,0 +1,1 @@
+If you want to challenge yourselves, you can try to solve the problem for the  [South African Programming Olympiad](http://www.olympiad.org.za/past-papers-programming-olympiad/first-round/)
